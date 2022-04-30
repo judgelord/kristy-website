@@ -1,0 +1,29 @@
+---
+title: "‘The Price We Pay’: Mexican Immigrants,
+Transnational Mourning, and Transforming Disenfranchised Grief"
+summary: As immigrants age, they are more likely to experience the death of a loved one in Mexico, and the possibility of transnational death becomes a specter that looms over all aspects of life.
+abstract: As immigrants age, they are more likely to experience the death of a loved one in Mexico, and the possibility of transnational death becomes a specter that looms over all aspects of life.
+date: "2021-01-01"
+url_pdf: 
+url_project: 
+url_slides:
+url_video: 
+tags:
+- Migration
+- Mourning
+- Transnational Families
+authors:
+- admin
+featured: true
+image:
+  caption: 
+  focal_point: 
+  preview_only: false
+links:
+projects:
+publication: 
+publication_short: 
+publication_types:
+publishDate: 
+doi: 
+---
